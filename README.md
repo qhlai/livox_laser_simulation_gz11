@@ -6,7 +6,21 @@ A package to provide plug-in for [Livox Series LiDAR](https://www.livoxtech.com)
 - Gazebo (= 11)
 
 ## Results
-![](resources/total.gif)
+- avia
+
+![](resources/avia.gif)
+- mid40
+
+![](resources/mid40.gif)
+- mid70
+
+![](resources/mid70.gif)
+- tele
+
+![](resources/tele.gif)
+- horizon
+
+![](resources/horizon.gif)
 
 ## Branchs
 
