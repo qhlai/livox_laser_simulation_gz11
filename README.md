@@ -2,7 +2,7 @@
 A package to provide plug-in for [Livox Series LiDAR](https://www.livoxtech.com).
 
 ## Requirements
-- ROS(=Melodic/Noetic)
+- ROS(=Melodic)
 - Gazebo (= 11)
 
 ## Results
